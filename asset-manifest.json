@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CC1_react/static/css/main.556b64d7.css",
-    "main.js": "/CC1_react/static/js/main.15089fa9.js",
+    "main.js": "/CC1_react/static/js/main.5bccd28e.js",
     "static/js/787.5bc0750f.chunk.js": "/CC1_react/static/js/787.5bc0750f.chunk.js",
     "static/media/Logo_ofppt-removebg-preview.png": "/CC1_react/static/media/Logo_ofppt-removebg-preview.e2f442afdb42f37d0d85.png",
     "static/media/united-kingdom.svg": "/CC1_react/static/media/united-kingdom.2d19fed4fb288f7b8a8591bbe3b70429.svg",
@@ -10,11 +10,11 @@
     "static/media/france.svg": "/CC1_react/static/media/france.40c79af5ce5231775ae018679c075255.svg",
     "static/media/getFetch.cjs": "/CC1_react/static/media/getFetch.40f37ddea2378391108f.cjs",
     "main.556b64d7.css.map": "/CC1_react/static/css/main.556b64d7.css.map",
-    "main.15089fa9.js.map": "/CC1_react/static/js/main.15089fa9.js.map",
+    "main.5bccd28e.js.map": "/CC1_react/static/js/main.5bccd28e.js.map",
     "787.5bc0750f.chunk.js.map": "/CC1_react/static/js/787.5bc0750f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.556b64d7.css",
-    "static/js/main.15089fa9.js"
+    "static/js/main.5bccd28e.js"
   ]
 }
