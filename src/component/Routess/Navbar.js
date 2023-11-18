@@ -76,6 +76,9 @@ export default function CustomNavbar() {
           <Nav.Link as={Link} to="/Multilangue" className="nav-link font-weight-bold" style={linkStyle}>
             {t('Multilangue')}
           </Nav.Link>
+          <Nav.Link as={Link} to="*" className="nav-link font-weight-bold" style={linkStyle}>
+            {t('others')}
+          </Nav.Link>
           
         </Nav>
         
