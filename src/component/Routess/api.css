@@ -1,0 +1,41 @@
+#d1{
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: auto;
+    margin-top: 25px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    border-bottom: 1px solid rgb(228, 228, 228);
+    padding: 10px;
+  }
+  
+  button {
+    background-color: gray;
+    color: #ffe0b2;
+    font-weight: bold;
+    border: none;
+    padding: 10px 15px;
+    margin: 5px;
+    cursor: pointer;
+    border-radius: 3px;
+  }
+  
+  button:hover {
+    background-color: #ffe0b2;
+    color:gray;
+  }
+  

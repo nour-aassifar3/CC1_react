@@ -1,7 +1,14 @@
 .App {
   text-align: center;
 }
-
+.light-mode {
+  background-color: white;
+  color: black;
+}
+.Dark-mode {
+  background-color: #000000;
+  color: rgb(255, 255, 255);
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -12,6 +19,13 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+
+.lang-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
 
 .App-header {
   background-color: #282c34;
