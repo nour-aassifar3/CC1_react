@@ -33,9 +33,11 @@ tr:first-child {
   }
 
   table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-top: 20px;
+    width: 88%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
   }
 
   th, td {

@@ -11,7 +11,6 @@ import Logo from "./Logo_ofppt-removebg-preview.png";
 export default function CustomNavbar() {
   const { t, i18n } = useTranslation();
   const { lang, setLang } = useContext(Langc);
-
   const linkStyle = {
     color: '#ffe0b2',
     fontWeight: 'bold',
@@ -21,12 +20,10 @@ export default function CustomNavbar() {
     textDecorationColor: '#ffe0b2',
     
   };
-
   const navbarStyle = {
     backgroundColor: 'gray',
     margin: 'auto',
   };
-
   const mobileNavbarStyle = {
     backgroundColor: 'gray',
     margin: 'auto',
@@ -34,12 +31,8 @@ export default function CustomNavbar() {
   };
   const brandStyle = {
     marginLeft: '15px',
-    
   };
-
-  
   const [isDarkMode, setIsDarkMode] = useState(false);
-
   const toggleTheme = () => {
     setIsDarkMode((prevMode) => !prevMode);
   };

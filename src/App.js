@@ -7,10 +7,7 @@ import Calc from "./component/Routess/Calcul.js";
 import Menu from "./component/Routess/Navbar.js";
 import Slider from "./component/Routess/Slider.js";
 import Api from "./component/Routess/appi.js";
-import { I18nextProvider } from 'react-i18next';
-import i18n from './component/Routess/i18n.js';
-import { LangProvider } from './component/mycontexte/Langcontext.js'; // Update import
-import Ccontent from './component/Routess/Ccontent.js';
+import { LangProvider } from './component/mycontexte/Langcontext.js';
 import Cicones from './component/Routess/cicones.js';
 
 function App() {
