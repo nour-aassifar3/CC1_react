@@ -79,9 +79,7 @@ export default function CustomNavbar() {
           <Nav.Link as={Link} to="*" className="nav-link font-weight-bold" style={linkStyle}>
             {t('others')}
           </Nav.Link>
-          
         </Nav>
-        
       </BootstrapNavbar.Collapse>
     </BootstrapNavbar>
   );

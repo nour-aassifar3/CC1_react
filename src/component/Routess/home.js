@@ -22,7 +22,7 @@ export default function Home() {
           <td id="te">Nom Modules</td>
           <td id="te">MHT</td>
           <td id="te">COEF</td>
-          <td id="te">EFM Régional</td>
+          <td id="te">EFM</td>
         </tr>
         <tr>
           <td>M201</td>
